@@ -3,11 +3,8 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 
 
 
-## Final Score: 2/10
+## Final Score: 9/10
 
-**Assignment was not complete**
-
-**Generally, you tried to do too much in part 1.  And when you started doing merges with NPI, you joined on the NPI data multiple times.  You should have concatenated the CMS files first and then done the join with NPI data once.**
 
 ## Part 1 - Merging CMS Files
 * 2 pts - You correctly merged the data in the CMS files into the right shape
@@ -28,3 +25,5 @@ _Was your code readable, efficient, and in line with what we learned in class?_
 * Code written into functions where appropriate?
 * Appropriate comments with your code?
 * Generally easy to follow and undersand?
+
+**(-1) In your code, you repeated the same steps multiple times for each of the cms files.  This could have been done with a loop to write more efficient code.  If you had 100 files, writing code for each one would have been very tedious.
